@@ -1,7 +1,16 @@
 aid: agro-club
 name: Agro Club
-description: Agro Club is a company surfaced as a portfolio company of speedinvest and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Agro.Club is a US-based agtech company operating a digital grain trading and crop
+  marketing marketplace that connects farmers with grain buyers. The platform offers
+  competitive bids for corn, wheat, soybeans and other grains, along with logistics
+  (truck and rail transportation), quality control, financing, and market insights.
+  Farmers can transact through cash, FOB or delivered, and basis contracts, plus a
+  Firm Offer price-target monitoring service. Agro.Club serves tens of thousands of
+  farmers and grain companies across the largest agricultural hubs. It was surfaced as
+  a portfolio company of Speedinvest and added to the API Evangelist network. Agro.Club
+  does not publish a public developer API, SDKs, or documentation; its api.agro.club
+  host is a private backend that serves the company's own applications.
 url: https://raw.githubusercontent.com/api-evangelist/agro-club/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +18,47 @@ x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://agro.club/favicon.ico
 tags:
 - Company
+- Agriculture
+- AgTech
+- Grain Trading
+- Crop Marketing
+- Marketplace
+- Logistics
+- Agriculture Finance
 apis: []
+common:
+- type: Website
+  url: https://agro.club/
+- type: GitHubOrganization
+  url: https://github.com/agro-club
+- type: TermsOfService
+  url: https://static.agro.club/docs/agro_club-terms_of_use.pdf
+- type: PrivacyPolicy
+  url: https://static.agro.club/docs/agro_club_usa-privacy_policy.pdf
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
