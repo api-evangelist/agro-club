@@ -64,6 +64,73 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Agro Club is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Agro.Club is a US-based agtech company operating a digital grain trading and crop marketing marketplace that connects farmers with grain buyers. The platform offers competitive bids for corn, wheat, soybeans and other grains, along with logistics (truck and rail transportation), quality control, financing, and market insights. Farmers can transact through cash, FOB or delivered, and basis contracts, plus a Firm Offer price-target monitoring service. Agro.Club serves tens of thousands of farmers and grain companies across the largest agricultural hubs. It was surfaced as a portfolio company of Speedinvest and added to the API Evangelist network. Agro.Club does not publish a public developer API, SDKs, or documentation; its api.agro.club host is a private backend that serves the company's own applications.
 
-Backed by: speedinvest
+**Areas:** Company · Agriculture · AgTech · Grain Trading · Crop Marketing · Marketplace · Logistics · Agriculture Finance
+
+## Agro Club on APIs.io
+
+Everything profiled for Agro Club is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agro-club/](https://apis.io/providers/agro-club/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agro.club/)
+- [Blog](https://agro.club/ru/blog)
+- [Terms of service](https://static.agro.club/docs/agro_club-terms_of_use.pdf)
+- [Privacy policy](https://static.agro.club/docs/agro_club_usa-privacy_policy.pdf)
+- [GitHub](https://github.com/agro-club)
+
+## API Evangelist rating
+
+**Kin Score 8.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agro-club/](https://apis.io/providers/agro-club/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agro Club: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agro-club/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
